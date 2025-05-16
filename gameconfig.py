@@ -4,6 +4,7 @@ import sys
 from PySide6 import QtCore, QtWidgets
 
 
+# this is a comment
 class MyWidget(QtWidgets.QWidget):
     def __init__(self):
         super().__init__()
